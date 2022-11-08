@@ -1,0 +1,6 @@
+.env
+.prettierignore
+.prettierrc.json
+.editorconfig
+package-lock.json
+/node_modules
